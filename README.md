@@ -1,2 +1,2 @@
 # campo-minado-swing
-Campo minado do curso da Cod3r
+Projeto com a lógica, utilizando o padrão Observer e interface gráfica;
